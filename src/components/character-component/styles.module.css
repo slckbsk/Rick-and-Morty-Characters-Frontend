@@ -1,0 +1,24 @@
+.uppercase {
+  text-transform: uppercase;
+  color: #880000;
+  justify-content: center;
+  align-items: center;
+  padding: 2px;
+  font-size: 15px;
+}
+
+.table,
+th,
+td {
+  font-weight: nomal;
+  padding: 2px;
+  font-size: 14px;
+  font-family: Gotham, Arial, sans-serif;
+}
+
+.images {
+  align-items: center;
+  justify-content: center;
+  height: 200px;
+  width: 200px;
+}

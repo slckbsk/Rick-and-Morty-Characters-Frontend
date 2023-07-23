@@ -1,0 +1,27 @@
+body {
+  font-family: "Gotham";
+}
+
+.uppercase {
+  text-transform: uppercase;
+  color: rgb(87, 87, 87);
+}
+
+.itemPadding {
+  padding: 10px;
+}
+
+.close {
+  text-transform: uppercase;
+  color: #880000;
+  font-size: 15px;
+  font-weight: normal;
+  padding: 3px 5px;
+}
+
+.spin {
+  padding: 100px;
+  background: rgba(0, 0, 0, 0);
+  border-radius: 4px;
+  text-transform: uppercase;
+}
